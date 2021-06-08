@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE presentation SYSTEM "presentPoint.dtd">
+<presentation>
+<showtitle>XML-Based Presentation for PresentPoint</showtitle>
+<slide>
+<title>PresentPoint XML-Demo</title>
+<item kind="text" level="1">Welcome to PresentPoint</item>
+<item kind="text" level="2">Copyright (c) 2021 Vladyslav Atamanchuk</item>
+<item kind="text" level="1">Navigation:</item>
+<item kind="text" level="2">Next slide: PgDn or Enter</item>
+<item kind="text" level="2">Previous slide: PgUp or up-arrow</item>
+<item kind="text" level="2">Quit: q or Q</item>
+</slide>
+<slide>
+<title>An almost empty slide</title>
+<item kind="text" level="1"> </item>
+</slide>
+<slide>
+<title>Background</title>
+<item kind="text" level="1">PresentPoint is originally an exercise for the</item>
+<item kind="text" level="1">course System Engineering patterns of the KPI university</item>
+<item kind="text" level="1"> </item>
+<item kind="image" level="2">logo_kpi.png</item>
+<item kind="text" level="1"> </item>
+</slide>
+<slide>
+<title>PresentPoint: Levels and styles</title>
+<item kind="text" level="1">Level 1</item>
+<item kind="text" level="2">Level 2</item>
+<item kind="text" level="1">A PresentPoint</item>
+<item kind="text" level="2">Level 2 has style 2</item>
+<item kind="text" level="3">This is the style of level 3</item>
+<item kind="text" level="4">And this level 4</item>
+</slide>
+<slide>
+<title>Last slide</title>
+<item kind="text" level="1">Navigation can also be done via the menu</item>
+<item kind="text" level="2">Load a presentation: File->Open</item>
+<item kind="text" level="1"> </item>
+<item kind="text" level="1">This is the end of the presentation.</item>
+<item kind="image" level="1">PresentPoint.png</item>
+<item kind="text" level="1">Goodbye.</item>
+</slide>
+</presentation>
